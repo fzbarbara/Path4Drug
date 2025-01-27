@@ -3,7 +3,7 @@ Path4Drug: Data Science Workflow for Identification of Tissue-Specific Biologica
 https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.708296/full
 https://pharminfo.univie.ac.at/
 
-The Path4Drug_python.ipynb is a python version of the aboce published weorkflow.
+The Path4Drug_python.ipynb is a python version of the aboce published workflow.
 
 Funding
 This work has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement number 116030 (TransQST). 
